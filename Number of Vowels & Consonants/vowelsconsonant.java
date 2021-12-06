@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.Scanner;
-class MyClass
+class vowelsconsonant
 {
   public static void main(String[] args)
   {
